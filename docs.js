@@ -74,7 +74,7 @@ textcolor
   bcrypt
   dotenv
   express-session (express-session is a middleware in Express used to manage sessions, which helps store user-specific data between HTTP requests. It works by storing session data on the server and creating a session ID, which is sent to the client in a cookie.) 
-  flash (to create flash  messages)
+ npm i express-flash  (to create flash  messages)
   multer 
 */
 
